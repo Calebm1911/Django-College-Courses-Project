@@ -1,4 +1,5 @@
-Django College Courses Project
+Django College Courses Project:
+
 This Django project is designed to manage college courses with details such as description, credits, and instructor. The information is stored in the default SQLite database and presented through a simple HTML frontend. The main page showcases all available courses, and clicking on a specific course reveals detailed information about that particular course.
 
 Features
